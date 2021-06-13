@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="4funfitdance.pl" tvg-name="PL: 4 Fun Dance" tvg-logo="" group-title="Live: Poland",PL: 4 Fun Dance
+http://basic-iptvesun.com:8080/asd2TVTBnn/yzjrQkg2u3/8079
+#EXTINF:-1 tvg-ID="4funhits.pl" tvg-name="PL: 4 Fun Gold" tvg-logo="" group-title="Live: Poland",PL: 4 Fun Gold
+http://basic-iptvesun.com:8080/asd2TVTBnn/yzjrQkg2u3/8078
+#EXTINF:-1 tvg-ID="4funtv.pl" tvg-name="PL: 4Fun TV" tvg-logo="[""]" group-title="Live: Poland",PL: 4Fun TV
+http://basic-iptvesun.com:8080/asd2TVTBnn/yzjrQkg2u3/15995
+#EXTINF:-1 tvg-ID="" tvg-name="PL: Active Family" tvg-logo="" group-title="Live: Poland",PL: Active Family
+http://basic-iptvesun.com:8080/asd2TVTBnn/yzjrQkg2u3/41192
+#EXTINF:-1 tvg-ID="adventure.pl" tvg-name="PL: ADVENTURE HD" tvg-logo="" group-title="Live: Poland",PL: ADVENTURE HD
+http://basic-iptvesun.com:8080/asd2TVTBnn/yzjrQkg2u3/9144
